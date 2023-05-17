@@ -8,7 +8,7 @@ export class Aluno {
   }
 }
 
-enum StatusProva {
-  Aprovado = 'Aprovado',
-  Reprovado = 'Reprovado',
+export enum StatusProva {
+  Aprovado = 'APROVADO',
+  Reprovado = 'REPROVADO',
 }
